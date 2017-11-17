@@ -1,0 +1,31 @@
+body{
+	background-color:;
+}
+h1{
+	color:#1A1126;
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+}
+h2{
+	color:#2F2627;
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+}
+img{
+	margin-bottom:10px
+}
+.sbs{
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+	color:#1A1126;
+	font-size: 20px;
+}
+.boo{
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+	color:#5E4968;
+}
+#lol{
+	color:#5E4968;
+	margin-top:30px;
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+}
+#lol:hover {
+	background-color: #5E4968;
+}

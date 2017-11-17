@@ -1,0 +1,25 @@
+p{
+	text-align: center;
+		}
+img{
+	margin-bottom: 10px;
+}
+#txt{
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+	font-size:20px;
+	color:#A27C9E;
+	border: 1px dashed #63414F;
+	padding:10px;
+}
+#txt:hover {
+	background-color: #5E4968
+}
+#test{
+	color:#5E4968;
+	margin-top:30px;
+	font-family: Bodoni MT Black,"Bodoni MT Black";
+}
+.zsz{
+	font-family:  Bodoni MT Black,"Bodoni MT Black";
+	color:#5E4968;
+}
